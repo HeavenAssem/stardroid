@@ -34,7 +34,7 @@ import java.util.List;
  * </ol>
  *
  *  This class is a simple stopgap until Guava includes a more feature rich
- *  EqualsTester as part of it's distribution.
+ *  EqualsTester as part of its distribution.
  *
  *  // TODO(brent): Switch to Guava's version when available.
  *
