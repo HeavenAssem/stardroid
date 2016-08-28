@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+
 <resources>
     <string name="app_name" translation_description="Application Title">Карта звездного неба</string>
     <string name="menu_settings">Настройки</string>
@@ -28,7 +29,8 @@
     <string name="location_place_found">Место найдено. Уст. широта %1$f и долгота %2$f</string>
     <string name="use_magnetic_correction">Исп. поправку на магн. склон.</string>
     <string name="use_magnetic_correction_hint">Используйте информацию о своем местоположении, чтобы изменить ориентацию с магнитного на истинный географический Северный полюс</string>
-    <string name="provider_prefs" translation_description="Dialog box title for a preferences dialog">Показать...</string>
+    
+	<string name="provider_prefs" translation_description="Dialog box title for a preferences dialog">Показать...</string>
     <string name="show_stars_pref">Звезды</string>
     <string name="show_constellations_pref">Созвездия</string>
     <string name="show_messier_objects_pref" translation_description="The celestial objects catalogued by Charles Messier">Объекты Мессье</string>
@@ -36,12 +38,14 @@
     <string name="show_grid_pref">Сетка прям. восх./скл.</string>
     <string name="show_horizon_pref">Горизонт</string>
     <string name="show_sky_gradient">Градиент неба</string>
+	<string name="show_meteors_pref">Метеорные потоки</string>
     <string name="sensor_prefs">Настройки матрицы</string>
     <string name="sensor_speed">Скорость матрицы</string>
     <string name="sensor_damping" translation_description="The amount of       smoothing applied to the sensor outputs.">Сглаживание</string>
     <string name="ecliptic">Эклептика</string>
-    <string name="show_hubble_layer_pref">Фотографии, отснятые телескопом Хаббл</string>
-    <string name="malformed_loc_error">Значение широты или долготы не явл. числом.</string>
+    
+	<string name="show_hubble_layer_pref">Фотографии, отснятые телескопом Хаббл</string>  
+	<string name="malformed_loc_error">Значение широты или долготы не явл. числом.</string>
     <string name="dialog_accept" translation_description="accepting the licence agreement">Принять</string>
     <string name="dialog_decline" translation_description="declining the licence agreement">Нет, спасибо</string>
     <string name="menu_help" translation_description="menu item to show \'Help\' box">Справка</string>
@@ -71,13 +75,18 @@
     <string name="menu_time">Путешествие во времени</string>
     <string name="time_travel_start_message">Путешествие сквозь время...</string>
     <string name="time_travel_start_message_alt">Путешествие во времени к объекту %s...</string>
-    <string name="time_travel_close_message">Назад в настоящее...</string>
-    <string name="popular_dates_prompt" translation_description="label for a list of dates the user can choose from">Популярные даты</string>
+	<string name="time_travel_close_message">Назад в настоящее...</string>
+    
+	
+	
+	<string name="popular_dates_prompt" translation_description="label for a list of dates the user can choose from">Популярные даты</string>
     <string name="custom_date_prompt" translation_description="label telling the user to manually specify a data">Или выберите другую дату</string>
-    <string name="change_date_prompt">Изменить дату</string>
+	<string name="change_date_prompt">Изменить дату</string>
     <string name="change_time_prompt">Изменить время</string>
-    <string name="now_visiting" translation_description="tells the user what time they are visiting">Просмотр: %s</string>
-    <string name="time_travel_label_past" translation_description="label showing that we are in the past">Путешестве во времени: прошлое</string>
+    <string name="now_visiting" 
+			translation_description="tells the user what time they are visiting">
+			Просмотр: %s</string>
+	<string name="time_travel_label_past" translation_description="label showing that we are in the past">Путешестве во времени: прошлое</string>
     <string name="time_travel_label_future" translation_description="label showing that we are in the future">Путешествие во времени: будущее</string>
     <string name="time_travel_stopped" translation_description="label showing rate of travel through time">Путешествие во времени остановлено</string>
     <string name="time_travel_second_speed" translation_description="label showing rate of travel through time">Путешествие со скоростью &gt; @ 1 с/с</string>
@@ -138,7 +147,13 @@
     <string name="allow_rotation_pref_desc" translation_description="a qualification for the Multitouch rotation option">если поддерживается телефоном</string>
     <string name="north_pole">СП</string>
     <string name="south_pole">ЮП</string>
-    <string name="andromeda" translation_description="Name of the Andromeda constellation">Андромеда</string>
+    
+	
+	
+	
+	
+	
+	<string name="andromeda" translation_description="Name of the Andromeda constellation">Андромеда</string>
     <string name="aquarius" translation_description="Name of the Aquarius constellation">Водолей</string>
     <string name="aquila" translation_description="Name of the Aquila constellation">Орел</string>
     <string name="aries" translation_description="Name of the Aries constellation">Овен</string>
@@ -188,7 +203,8 @@
     <string name="big_dipper" translation_description="Name of the Big Dipper constellation">Большая Медведица</string>
     <string name="great_bear" translation_description="Name of the Great Bear constellation">Большая Медведица</string>
     <string name="plough" translation_description="Name of the Plough constellation">Большая Медведица</string>
-    <string name="sirius" translation_description="Name of the Star Sirius">Сириус</string>
+    
+	<string name="sirius" translation_description="Name of the Star Sirius">Сириус</string>
     <string name="canopus" translation_description="Name of the Star Canopus">Канопус</string>
     <string name="arcturus" translation_description="Name of the Star Arcturus">Арктур</string>
     <string name="rigel_kentaurus_a" translation_description="Name of the Star Rigel Kentaurus A">Ригель Центавра А</string>
@@ -378,5 +394,84 @@
     <string name="kml_load_error">Не удалось загрузить файл KML</string>
     <string name="load_kml_dialog_title">Загрузка KML</string>
     <string name="load_kml_file">Загрузить</string>
+	<string name="enable_analytics">Отправлять статистику по использованию приложения</string>
+    <string name="enable_analytics_desc">Отправлять анонимную статистику в Google Analytics, чтобы помочь улучшить Sky Map</string>
+    <string name="leonids" translation_description="Meteor Shower">Леониды</string>
+    <string name="geminids" translation_description="Meteor Shower">Геминиды</string>
+    <string name="quadrantids" translation_description="Meteor Shower">Квадрантиды</string>
+    <string name="lyrids" translation_description="Meteor Shower">Лириды</string>
+    <string name="aquariids" translation_description="Meteor Shower">эта-Аквариды</string>
+    <string name="deltaaquariids" translation_description="Meteor Shower">Дельта Аквариды</string>
+    <string name="perseids" translation_description="Meteor Shower">Персеиды</string>
+    <string name="orionids" translation_description="Meteor Shower">Ориониды</string>
+    <string name="puppidvelids" translation_description="Meteor Shower">Пуппиды-Велиды</string>
+    <string name="ursids" translation_description="Meteor Shower">Урсиды</string>
+
+	<string name="no_sensor_warning">Your device may lack orientation sensors - automode may not work</string>
+    <string name="warning_dialog_title">Плохие новости!</string>
+    <string name="missing_sensor_dialog_text">\n
+		К сожалению, в вашем телефоне отсутствуют некоторые датчики, необходимые для работы Sky Map
+        Unfortunately your device might not have one of the
+    sensors that Sky Map needs.\n\n
+		Для демонстрации той части неба, на которую направлен Ваш телефон, приложению нужны встроенный компас и акселерометр.
+		Однако, в Вашем телефоне один из них отсутствует. Возможно, ваш телефон(в частности, если его модель Moto E)
+        To show you the sky in the direction your phone is pointing Sky Map
+    needs both a built-in compass and an accelerometer.  Your device reports that it is missing
+        one of them.  The good news is that some devices (for example some Moto E phones) falsely claim
+        not to have a compass but actually do.\n\n
+
+        If your device really is missing a sensor then auto-mode will not work.  However, you
+        can still use Sky Map on this device in manual mode where you drag, rotate and stretch the
+        map with your fingers.
+    </string>
+	<string name="do_not_show_again">Больше не показывать это сообщение</string>
+    <string name="title_activity_diagnostic">Диагностика</string>
+    <string name="location_rationale_title">Зачем нам нужно знать Ваше местоположение?</string>
+    <string name="location_rationale_text">The stars you can see depend on where on planet earth you are.  Without your location we cannot show you an accurate map.  If you do not want your phone to give us your location you can provide it manually in the settings.  You need only provide the nearest city.</string>
+    <string name="play_services_error">Warning: Google Play Services error - Automatic location might not work</string>
+    <string name="sensor_absent">Отсутствуют</string>
+    <string name="sensor_accuracy_unknown">Точность: Неизвестно</string>
+    <string name="sensor_accuracy_unreliable">Точность: Недостоверно</string>
+    <string name="sensor_accuracy_low">Точность: Низкая</string>
+    <string name="sensor_accuracy_medium">Точность: Средняя</string>
+    <string name="sensor_accuracy_high">Точность: Высокая</string>
+    <string name="sensor_accuracy_nocontact">Точность: No contact</string>
+    <string name="diagnostics_activity_general_heading">Общие</string>
+    <string name="diagnostics_activity_phone">Устройство</string>
+    <string name="diagnostics_activity_android_version">Версия Android</string>
+    <string name="diagnostics_activity_sky_map_version">Версия Sky Map</string>
+    <string name="diagnostics_activity_sensors_heading">Датчики</string>
+    <string name="diagnostics_activity_compass">Компас</string>
+    <string name="diagnostics_activity_accelerometer">Акселерометр</string>
+    <string name="diagnostics_activity_rotation_vector">Вращение</string>
+    <string name="diagnostics_activity_gyroscope">Гироскоп</string>
+    <string name="diagnostics_activity_light_level">Уровень освещенности</string>
+    <string name="diagnostics_activity_location_and_time_heading">Местоположение и время</string>
+    <string name="diagnostics_activity_gps">GPS</string>
+    <string name="diagnostics_activity_location">Координаты (д, ш)</string>												 
+    <string name="diagnostics_activity_pointing_ra_dec">Pointing snapshot</string>
+    <string name="diagnostics_activity_magnetic_correction">Mag correction</string>
+    <string name="diagnostics_activity_local_datetime">Местное время</string>
+    <string name="diagnostics_activity_universal_time">Время UTC</string>
+    <string name="diagnostics_activity_network_heading">Сеть</string>
+    <string name="diagnostics_activity_connection">Подключение</string>
+    <string name="diagnostics_activity_rotation_matrix">Матрица поворота</string>
+    <string name="enabled">Включен</string>
+    <string name="disabled">Отключен</string>
+    <string name="permission_disabled">Доступ запрещён</string>
+    <string name="no_gps">Нет GPS</string>
+    <string name="connected">Подключено</string>
+    <string name="disconnected">Отключено</string>
+    <string name="wifi">" (wifi)"</string>
+    <string name="cell_network">" (мобильные данные)"</string>
+    <string name="menu_calibrate">Откалибровать</string>
+    <string name="compass_calibration_activity_heading_compass">Компас -</string>
+    <string name="compass_calibration_activity_do_not_show_this_again">Больше не показывать</string>
+    <string name="compass_calibration_activity_warning">Необходимо откалибровать Ваш компас</string>
+    <string name="sensor_reverse_preference_title">Reverse Magnetic Z</string>
+    <string name="sensor_reverse_preference_summary">Fix for phones with incorrectly implemented sensors - requires restart</string>
+    <string name="whats_new_dialog_title">What\'s new</string>
+    <string name="use_gyro_preference_title">Использовать гироскоп (экспериментально)</string>
+    <string name="use_gyro_preference_summary">Сглаживает движения карты. Не во всех телефонах есть гироскоп.</string>
 </resources>
 

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="antlia" translation_description="Name of the Antlia constellation">Насос</string>
+    <string name="apus" translation_description="Name of the Apus constellation">Райская Птица</string>
+    <string name="ara" translation_description="Name of the Ara constellation">Жертвенник</string>
+    <string name="caelum" translation_description="Name of the Caelum constellation">Резец</string>
+    <string name="camelopardalis" translation_description="Name of the Camelopardalis constellation">Жираф</string>
+    <string name="canes_venatici" translation_description="Name of the Canes Venatici constellation">Гончие Псы</string>
+    <string name="canis_minor" translation_description="Name of the Canis Minor constellation">Малый Пёс</string>
+    <string name="cepheus" translation_description="Name of the Cepheus constellation">Цефей</string>
+    <string name="chamaeleon" translation_description="Name of the Chamaeleon constellation">Хамелеон</string>
+    <string name="circinus" translation_description="Name of the Circinus constellation">Циркуль</string>
+    <string name="columba" translation_description="Name of the Columba constellation">Голубь</string>
+    <string name="coma_berenices" translation_description="Name of the Coma Berenices constellation">Волосы Вероники</string>
+    <string name="corona_australis" translation_description="Name of the Corona Australis constellation">Южная Корона</string>
+    <string name="corona_borealis" translation_description="Name of the Corona Borealis constellation">Северная Корона</string>
+    <string name="corvus" translation_description="Name of the Corvus constellation">Ворон</string>
+    <string name="crater" translation_description="Name of the Crater constellation">Чаша</string>
+    <string name="delphinus" translation_description="Name of the Delphinus constellation">Дельфин</string>
+    <string name="dorado" translation_description="Name of the Dorado constellation">Золотая Рыба</string>
+    <string name="equuleus" translation_description="Name of the Equuleus constellation">Малый Конь</string>
+    <string name="fornax" translation_description="Name of the Fornax constellation">Печь</string>
+    <string name="horologium" translation_description="Name of the Horologium constellation">Часы</string>
+    <string name="hydra" translation_description="Name of the Hydra constellation">Гидра</string>
+    <string name="indus" translation_description="Name of the Indus constellation">Индеец</string>
+    <string name="lacerta" translation_description="Name of the Lacerta constellation">Ящерица</string>
+    <string name="leo_minor" translation_description="Name of the Leo Minor constellation">Малый Лев</string>
+    <string name="lepus" translation_description="Name of the Lepus constellation">Заяц</string>
+    <string name="lynx" translation_description="Name of the Lynx constellation">Рысь</string>
+    <string name="mensa" translation_description="Name of the Mensa constellation">Столовая Гора</string>
+    <string name="microscopium" translation_description="Name of the Microscopium constellation">Микроскоп</string>
+    <string name="monoceros" translation_description="Name of the Monoceros constellation">Единорог</string>
+    <string name="musca" translation_description="Name of the Musca constellation">Муха</string>
+    <string name="norma" translation_description="Name of the Norma constellation">Наугольник</string>
+    <string name="octans" translation_description="Name of the Octans constellation">Октант</string>
+    <string name="pictor" translation_description="Name of the Pictor constellation">Живописец</string>
+    <string name="pyxis" translation_description="Name of the Pyxis constellation">Компас</string>
+    <string name="reticulum" translation_description="Name of the Reticulum constellation">Сетка</string>
+    <string name="sagitta" translation_description="Name of the Sagitta constellation">Стрела</string>
+    <string name="sculptor" translation_description="Name of the Sculptor constellation">Скульптор</string>
+    <string name="scutum" translation_description="Name of the Scutum constellation">Щит</string>
+    <string name="serpens_caput" translation_description="Name of the Serpens Caput constellation">Голова Змеи</string>
+    <string name="serpens_cauda" translation_description="Name of the Serpens Cauda constellation">Хвост Змеи</string>
+    <string name="sextans" translation_description="Name of the Sextans constellation">Секстант</string>
+    <string name="telescopium" translation_description="Name of the Telescopium constellation">Телескоп</string>
+    <string name="triangulum" translation_description="Name of the Triangulum constellation">Треугольник</string>
+    <string name="triangulum_australe" translation_description="Name of the Triangulum Australe constellation">Южный Треугольник</string>
+    <string name="volans" translation_description="Name of the Volans constellation">Летучая рыба</string>
+    <string name="vulpecula" translation_description="Name of the Vulpecula constellation">Лисичка</string>
+</resources>
