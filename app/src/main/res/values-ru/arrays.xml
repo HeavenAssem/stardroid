@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="popular_date_examples">
-        <item>Сейчас</item>
+        <item translation_description="The user's current time">Сейчас</item>
         <item>Следующий заход Солнца</item>
         <item>Следующий восход Солнца</item>
         <item>Следующее полнолуние</item>
@@ -12,14 +12,14 @@
         <item>Посадка на Луну Аполлона 11</item>
     </string-array>
     <string-array name="sensor_speed">
-        <item>Медленно</item>
-        <item>Обычно</item>
-        <item>Быстро</item>
+        <item translation_description="Slow sensor speed">Медленно</item>
+        <item translation_description="Normal sensor speed">Обычно</item>
+        <item translation_description="Fast sensor speed">Быстро</item>
     </string-array>
     <string-array name="sensor_damping">
-        <item>Скачками</item>
-        <item>Среднее</item>
-        <item>Обычное</item>
-        <item>Высокое</item>
+        <item translation_description="Low sensor damping factor">Скачками</item>
+        <item translation_description="Medium sensor damping factor">Среднее</item>
+        <item translation_description="Extra High sensor damping factor">Обычное</item>
+        <item translation_description="Really High sensor damping factor">Высокое</item>
     </string-array>
 </resources>
